@@ -4,7 +4,8 @@
 - 🌱 Currently Learning: Android App Development with Kotlin
 - 📫 How to reach me 
 
-[![Twitter](https://github.com/khan-asfi-reza/khan-asfi-reza/blob/master/twitter.png)](https://www.twitter.com/KhanAsfiReza)
+<a href="https://www.twitter.com/KhanAsfiReza"><img src="https://github.com/khan-asfi-reza/khan-asfi-reza/blob/master/twitter.png" alt="drawing" style="width:50px;"/></a>
+
 
 <!---
 khan-asfi-reza/khan-asfi-reza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
