@@ -4,7 +4,7 @@
 - 🌱 Currently Learning: Android App Development with Kotlin
 - 📫 How to reach me 
 
-<a href="https://www.twitter.com/KhanAsfiReza"><img src="https://github.com/khan-asfi-reza/khan-asfi-reza/blob/master/twitter.png" alt="drawing" style="width:50px;"/></a>
+<a href="https://www.twitter.com/KhanAsfiReza"><img src="https://github.com/khan-asfi-reza/khan-asfi-reza/blob/master/twitter.png" alt="drawing" width="50"/></a>
 
 
 <!---
