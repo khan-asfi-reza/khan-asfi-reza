@@ -5,7 +5,7 @@
     <img src="./welcome.gif" alt="drawing" width="50%"/>
 </div>    
 
-#### I am a Full-Stack Developer. Learning to code since 2015. Worked as a Freelance Full-Stack Developer from 2019-2020, currently working for Shore Capital Corporation as a Full-Stack Software Engineer
+#### I am a Full-Stack Developer. Learning to code since 2015. Working as a Freelance Full-Stack Developer from 2019. Currently trying to get my hands dirty in open source development
 
 - #### ✨ Languages: 
     ` Python `  ` JavaScript `  ` TypeScript `  ` Java `  ` Kotlin `  ` CSS `  ` SQL `
