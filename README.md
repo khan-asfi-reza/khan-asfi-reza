@@ -25,7 +25,7 @@
 
 #### Contact Me
    <a href="https://www.twitter.com/KhanAsfiReza"><img src="./twitter.png" alt="drawing" width="30"/></a>
-   <a href="mailto:khanasfireza10@gmail.com"><img src="./gmail.png" alt="drawing" width="30"/></a>
+   <a href="mailto:khanasfireza10@gmail.com"><img src="./mail.png" alt="drawing" width="30"/></a>
    <a href="https://www.khanasfireza.dev"><img src="./web.png" alt="drawing" width="30"/></a>
    <a href="https://www.facebook.com/khanasfirezapranto10"><img src="./fab.png" alt="drawing" width="30"/></a>
 <!---
