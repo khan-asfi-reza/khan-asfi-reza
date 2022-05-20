@@ -9,7 +9,7 @@
 - #### ✨ Languages: 
     ` Python `  ` TypeScript `  ` Java `  ` Kotlin `  ` CSS `  ` SQL ` `C++`
 - #### 🎆 Frameworks: 
-   ` Django `  ` React`  ` Svelte `  ` Ruby on Rails `  ` Express `  ` Flask `  ` Fast Api `  ` VueJs ` ` NextJS `
+   ` Django `  ` React`  ` Svelte `  ` Express `  ` Flask `  ` Fast Api `  ` VueJs ` ` NextJS `
 - #### 🎆 Tech Stacks:   
    ` Git `  ` CI/CD `  ` Unit Testing ` ` Docker ` 
 
