@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khan Asfi Reza 👋
+👋 Hi, I'm Khan Asfi Reza 👋
 
 <div align="center">
 <img src="./welcome.gif" alt="drawing" width="50%"/>
