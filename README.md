@@ -1,8 +1,8 @@
-👋 Hi, I'm Khan Asfi Reza 👋
-
 <div align="center">
-<img src="./welcome.gif" alt="drawing" width="50%"/>
+    <h1> 👋 Hi, I'm Khan Asfi Reza 👋 </h1> 
+    <img src="./welcome.gif" alt="drawing" width="50%"/>
 </div>    
+
 
 #### I am a Full-Stack Developer. Learning to code since 2015. Working as a Freelance Full-Stack Developer from 2019. Currently trying to get my hands dirty in open source development
 
