@@ -1,6 +1,6 @@
 <div align="center">
     <h1> 👋 Hi, I'm Khan Asfi Reza 👋 </h1> 
-    <img src="./welcome.gif" alt="drawing" width="550"/>
+    <img src="./welcome.gif" alt="drawing" width="350"/>
 </div>    
 
 
