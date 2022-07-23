@@ -4,7 +4,7 @@
 </div>    
 
 
-#### I am a Full-Stack Developer. Learning to code since 2015. Working as a Freelance Full-Stack Developer from 2019. Currently trying to get my hands dirty in open source development
+#### I am a Full-Stack Developer. Learning to code since 2015. Currently working as a Backend Engineer At Zelf.
 
 - #### ✨ Languages: 
     ` Python `  ` TypeScript `  ` Java `  ` Kotlin `  ` CSS `  ` SQL ` `C++`
