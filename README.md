@@ -41,7 +41,7 @@
  
 ## Github
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khan-asfi-reza&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khan-asfi-reza&theme=radical)](https://git.io/streak-stats)
 
 
 
