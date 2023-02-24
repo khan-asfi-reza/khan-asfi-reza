@@ -4,8 +4,8 @@
 
 <div>
   <p>
-    My name is Khan Asfi Reza, I am a full-stack developer, (but I like Back-end). Currently working as a back-end engineer
-    at <a href="https://www.hellozelf.com">Zelf Technologies</a>. I am a huge fan of Django and Python in general. Love to make projects beside study and work in free time.
+    Hallo Freunde, I am Khan Asfi Reza, Back-end Engineer, a python enthusiasat. Currently working as a Back-end engineer  
+    at <a href="https://www.hellozelf.com">Zelf Technologies</a>.
     Here in my github you can find some projects made with love by me.
   </p>
 </div>
