@@ -4,9 +4,9 @@
 
 <div>
   <p>
-    Hallo Freunde, I am Khan Asfi Reza, Back-end Engineer, a python enthusiasat. Currently working as a Back-end engineer  
+    Full-time Back-end Engineer, a python enthusiasat. Currently working as a Back-end engineer  
     at <a href="https://www.hellozelf.com">Zelf Technologies</a>.
-    Here in my github you can find some projects made with love by me.
+    I make bugs for living
   </p>
 </div>
 
