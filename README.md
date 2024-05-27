@@ -4,7 +4,7 @@
 
 <div>
   <p>
-    Full-time Back-end Engineer, a python enthusiasat. Currently working as a Back-end engineer  
+    Full-time Back-end Engineer, a python enthusiast Currently working as a Back-end engineer  
     at <a href="https://www.hellozelf.com">Zelf Technologies</a>.
     I make bugs for living
   </p>
